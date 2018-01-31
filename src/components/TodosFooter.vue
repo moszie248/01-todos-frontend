@@ -7,7 +7,6 @@
 
 <script>
 import VisibilityInput from '@/components/VisibilityInput'
-
 export default {
   components: {
     VisibilityInput
